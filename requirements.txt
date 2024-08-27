@@ -1,7 +1,7 @@
 altair==4.2.0
 bar_chart_race==0.1.0
 matplotlib==3.5.1
-numpy==1.21.5
+numpy==2.1.0
 pandas==1.4.3
 paramiko==2.11.0
 PyMySQL==1.0.2
